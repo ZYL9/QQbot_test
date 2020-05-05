@@ -1,7 +1,6 @@
 #随机选择
 
 import base64
-from tupian import randompic
 from os import listdir
 import random
 

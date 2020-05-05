@@ -7,9 +7,8 @@ from ostest import picbase, randompic
 
 num = randompic()
 dir = "./PixivImage/" + num
-url1 = "https://nmsl.shadiao.app/api.php?level=min&lang=zh_cn&from=sunbelife"
+url1 = "https://nmsl.shadiao.app/api.php?from=sunbelife"
 url2 = "https://chp.shadiao.app/api.php?from=sunbelife"
-urlp = "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3252521864,872614242&fm=26&gp=0.jpg"
 qq = 3207033875  # 字段 qq 的值
 authKey = '1234567890'  # 字段 authKey 的值
 mirai_api_http_locate = 'localhost:8080/'
